@@ -1,6 +1,9 @@
 # 👩🏽‍💻 Kauane Vitória
 
-Me chamo Kauane Vitoria, tenho 19 anos e sou natural do Paraná. Atualmente sou estudante de Engenharia de Software na Cátolica de Santa Catarina.Sou apaixonada por tecnologia e estou sempre, em constante evolução na área de desenvolvimento.
+Me chamo Kauane Vitória, tenho 19 anos e sou natural do Paraná.
+Atualmente, curso Engenharia de Software na Católica de Santa Catarina.
+
+Sou apaixonada por tecnologia e estou em constante evolução na área de desenvolvimento, focada em construir uma carreira como desenvolvedora Full Stack.
 
 ---
 
@@ -34,3 +37,4 @@ Me chamo Kauane Vitoria, tenho 19 anos e sou natural do Paraná. Atualmente sou 
     style="padding-right: 10px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
+
