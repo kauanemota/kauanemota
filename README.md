@@ -6,6 +6,8 @@
 
 </div>
 
+---
+
 ## ⚡ Tech Stack
 
 <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode"/>
