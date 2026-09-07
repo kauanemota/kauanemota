@@ -14,7 +14,7 @@
 
 ## 👩🏽‍💻 About me
 
-Me chamo Kauane Vitória, tenho 19 anos e sou natural do Paraná.
+Me chamo Kauane Vitória, tenho 20 anos e sou natural do Paraná.
 Atualmente, curso Engenharia de Software na Católica de Santa Catarina.
 
 Sou apaixonada por tecnologia e estou em constante evolução na área de desenvolvimento, focada em construir uma carreira como desenvolvedora Full Stack.
@@ -35,5 +35,12 @@ Sou apaixonada por tecnologia e estou em constante evolução na área de desenv
 
 </div>
 
+---
+
+<div align="center">
+
+## ⭐"Every great developer you know got there by solving problems they were unqualified to solve until they actually did it" — Patrick McKenzie.
+
+</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=color=0:315d9e,5:315d9e,100:4888da&fontAlign=50&textBg=false&section=footer&reversal=true&descAlign=50&fontColor=f7fdff&fontSize=0&fontAlignY=50&descAlignY=50"/>
