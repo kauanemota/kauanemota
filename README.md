@@ -1,40 +1,32 @@
-# 👩🏽‍💻 Kauane Vitória
+<div align="center">
 
-Me chamo Kauane Vitória, tenho 19 anos e sou natural do Paraná.
-Atualmente, curso Engenharia de Software na Católica de Santa Catarina.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=color=0:315d9e,5:315d9e,100:4888da&text=Kauane%20Mota&fontAlign=50&textBg=false&section=header&reversal=true&descAlign=50&fontColor=f7fdff&fontSize=0&fontAlignY=50&descAlignY=50"/>
 
-Sou apaixonada por tecnologia e estou em constante evolução na área de desenvolvimento, focada em construir uma carreira como desenvolvedora Full Stack.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=800&color=315D9E&center=true&vCenter=true&width=435&lines=WELCOME+TO+MY+PROFILE;SYSTEM+BOOTING...;FULL+STACK+DEVELOPER" alt="Typing SVG"/>
+
+</div>
+---
+
+##⚡ Tech Stack
+
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode"/>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 🌎 Connect With Me
 
-<img 
-    align="left"
-    alt="HTML"
-    title="HTML"
-    width="30px"
-    style="padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
-/>
+<div align="center">
 
+<a href="https://github.com/kauanemota">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
+</a>
 
-<img 
-    align="left"
-    alt="CSS"
-    title="CSS"
-    width="30px"
-    style="padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
+<a href="https://www.linkedin.com/in/kauane-mota-739485373/">
+<img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=black"/>
+</a>
 
+</div>
 
-<img 
-    align="left"
-    alt="JavaScript"
-    title="JavaScript"
-    width="30px"
-    style="padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
+---
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=color=0:315d9e,5:315d9e,100:4888da&fontAlign=50&textBg=false&section=footer&reversal=true&descAlign=50&fontColor=f7fdff&fontSize=0&fontAlignY=50&descAlignY=50"/>
