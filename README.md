@@ -13,11 +13,7 @@
 ---
 
 ## 👩🏽‍💻 About me
-
-Me chamo Kauane Vitória, tenho 20 anos e sou natural do Paraná.
-Atualmente, curso Engenharia de Software na Católica de Santa Catarina.
-
-Sou apaixonada por tecnologia e estou em constante evolução na área de desenvolvimento, focada em construir uma carreira como desenvolvedora Full Stack.
+I’m a Software Engineering student at Católica de Santa Catarina focused on Full Stack Development. I’m passionate about creating responsive, modern web experiences and building intuitive interfaces through clean code.
 
 ---
 
