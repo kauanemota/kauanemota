@@ -12,6 +12,19 @@
 
 ---
 
+## 👩🏽‍💻 About me
+
+```bash
+$ kauane --info
+
+> Name: Kauane Vitória
+> Age: 20
+> Location: Paraná / Santa Catarina 🇧🇷
+> Education: Engenharia de Software (Católica SC)
+> Status: Em constante evolução rumo ao Full Stack 🚀
+
+---
+
 ## 🌎 Connect With Me
 
 <div align="center">
