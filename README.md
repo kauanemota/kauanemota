@@ -14,14 +14,10 @@
 
 ## 👩🏽‍💻 About me
 
-```bash
-$ kauane --info
+Me chamo Kauane Vitória, tenho 19 anos e sou natural do Paraná.
+Atualmente, curso Engenharia de Software na Católica de Santa Catarina.
 
-> Name: Kauane Vitória
-> Age: 20
-> Location: Paraná / Santa Catarina 🇧🇷
-> Education: Engenharia de Software (Católica SC)
-> Status: Em constante evolução rumo ao Full Stack 🚀
+Sou apaixonada por tecnologia e estou em constante evolução na área de desenvolvimento, focada em construir uma carreira como desenvolvedora Full Stack.
 
 ---
 
@@ -30,11 +26,11 @@ $ kauane --info
 <div align="center">
 
 <a href="https://github.com/kauanemota">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/kauane-mota-739485373/">
-<img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=000000"/>
+<img src="https://img.shields.io/badge/LinkedIn-315d9e?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
