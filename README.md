@@ -22,11 +22,10 @@
 </a>
 
 <a href="https://www.linkedin.com/in/kauane-mota-739485373/">
-<img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=black"/>
+<img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=000000"/>
 </a>
 
 </div>
 
----
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=color=0:315d9e,5:315d9e,100:4888da&fontAlign=50&textBg=false&section=footer&reversal=true&descAlign=50&fontColor=f7fdff&fontSize=0&fontAlignY=50&descAlignY=50"/>
