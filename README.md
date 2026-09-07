@@ -13,7 +13,9 @@
 ---
 
 ## 👩🏽‍💻 About me
+<p align="center">
 I’m a Software Engineering student at Católica de Santa Catarina focused on Full Stack Development. I’m passionate about creating responsive, modern web experiences and building intuitive interfaces through clean code.
+</p>
 
 ---
 
