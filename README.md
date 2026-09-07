@@ -5,7 +5,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=800&color=315D9E&center=true&vCenter=true&width=435&lines=WELCOME+TO+MY+PROFILE;SYSTEM+BOOTING...;FULL+STACK+DEVELOPER" alt="Typing SVG"/>
 
 </div>
----
 
 ## ⚡ Tech Stack
 
